@@ -12,6 +12,3 @@ _Данный проект представляет собой веб стран
 
 - [ActiveBox](https://aleksey-dev-crt.github.io/LandingPage-ActiveBox/index.html)
 
-*статус проекта: завершен*
-
-
